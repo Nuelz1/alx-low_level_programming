@@ -1,2 +1,0 @@
-#!/bin/basg
-gcc -c $CFILE
