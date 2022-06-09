@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * main - Debugging.
- *
+ * main - tests functions that prints if integer is negative or positiveive
  * Return: 0
  */
 
- int main(void)
+int main(void)
 {
 	int i;
 
